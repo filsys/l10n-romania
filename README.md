@@ -3,7 +3,7 @@ Odoo/OpenERP Romania Localization
 
 It extends Odoo/OpenERP to add needed functionnalites to use Odoo/OpenERP in Romania.
 
-Database administration tool used is Navicat PostgreSQL, sponsored by Navicat.
+Database administration tool used is Navicat PostgreSQL, sponsored by Navicat (www.navicat.com).
 
 
 
