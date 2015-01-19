@@ -5,7 +5,6 @@ It extends Odoo/OpenERP to add needed functionnalites to use Odoo/OpenERP in Rom
 
 Database administration tool used is Navicat PostgreSQL, sponsored by Navicat (www.navicat.com).
 
-/home/administrator/navicat/Premium_72dpi_660.jpg
 
 l10n_ro_config
 ------------
