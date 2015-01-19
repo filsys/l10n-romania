@@ -3,10 +3,6 @@ Odoo/OpenERP Romania Localization
 
 It extends Odoo/OpenERP to add needed functionnalites to use Odoo/OpenERP in Romania.
 
-Database administration tool used is Navicat PostgreSQL, sponsored by Navicat (www.navicat.com).
-
-
-l10n_ro_config
 ------------
 Module to provide easy configuration for Romanian adaptation, It provides easy install of the modules from this repo, plus accounting configuration or data upload for some modules. Will be install by default when you install the l10n_ro, and in Settings -> Configuration a menu will be created named Romania.
 
