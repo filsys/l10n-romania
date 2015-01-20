@@ -3,7 +3,7 @@ Odoo/OpenERP Romania Localization
 
 It extends Odoo/OpenERP to add needed functionnalites to use Odoo/OpenERP in Romania.
 
-We use Navicat as database administration tool,
+We use Navicat as database administration tool.
 
 [![navicat](https://sites.google.com/site/filsystemsite2/documents/Premium_72dpi_2230x763.jpg?attredirects=0)](#navicat)
 
