@@ -3,7 +3,7 @@ Odoo/OpenERP Romania Localization
 
 It extends Odoo/OpenERP to add needed functionnalites to use Odoo/OpenERP in Romania.
 
-[![navicat](https://www.dropbox.com/s/wl6bgdromq320wv/Premium_72dpi_2230x763.jpg)](#navicat)
+[![navicat](https://www.dropbox.com/s/wl6bgdromq320wv/Premium_72dpi_2230x763.jpg?dl=0)](#navicat)
 
 www.navicat.com
 
